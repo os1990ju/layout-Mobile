@@ -34,3 +34,9 @@
     margin-bottom: 1.25rem;
     margin-left: .7rem;
 }
+.head__enlace a:hover{
+    padding-bottom: 0.3rem;
+    border-bottom: 2px solid #ffffff;
+}
+/* font-family: 'Montserrat', sans-serif; */
+/*  */
