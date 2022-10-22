@@ -35,7 +35,9 @@
 @media screen and (min-width: 1024px) {
     .sobre_nosotros {
         display: flex;
-        gap: 1.2rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+
     }
     .sobre-nosotros__contenido {
         margin-right: 3rem;
